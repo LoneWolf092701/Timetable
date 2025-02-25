@@ -1,5 +1,5 @@
 const cleaners = [
-    "Kaladaran",
+    // "Kaladaran",
     "Kabishan",
     "Lucky",
     "Niru",
